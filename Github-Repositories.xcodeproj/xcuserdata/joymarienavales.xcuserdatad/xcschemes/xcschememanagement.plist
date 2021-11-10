@@ -7,6 +7,11 @@
 		<key>Github-Repositories.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Github-RepositoriesTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
 	</dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>43A601C9265267C000B24B9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CBF69DE9273AE89E00BF2747</key>
 		<dict>
 			<key>primary</key>
 			<true/>
