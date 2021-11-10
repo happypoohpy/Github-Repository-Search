@@ -1,6 +1,6 @@
 import Foundation
 import Combine
-@testable import SwiftUI_MVVM_C
+@testable import Github_Repositories
 
 class MockNetworkClient: NetworkProvider {
     var response: (Data?, Error?) = (nil, NetworkError.invalidResponse)
